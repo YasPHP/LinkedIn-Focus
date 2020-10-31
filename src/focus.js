@@ -70,7 +70,7 @@ const displayQuote = () => {
     document.getElementsByClassName(NEWS_FEED_CLASSNAME)[0].style.visibility = 'visible'
 
     const quoteStyle = "style=\"color:#293E4A;font-size:24px;\margin-bottom:4px;\""
-    const lfTitleStyle = "style=\"color:#0477B5;font-size:32px;font-weight:700;margin-bottom:16px;\""
+    const lfTitleStyle = "style=\"color:#0073b1;font-size:32px;font-weight:700;margin-bottom:16px;\""
     const gsTitleStyle = "style=\"color:#434343;font-size:32px;font-weight:700;margin-right:auto;\""
     const gsSocialStyle = "<style>.social-link {height: 32px;margin: 0px 6px;}</style>"
     const quoteSourceStyle = "style=\"color:#293E4A;font-size:20px;font-style:italic;margin-bottom:16px;\""
