@@ -23,7 +23,7 @@ Before                     |  After
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <a href="https://chrome.google.com/webstore/detail/linkedin-focus/cmafljjdkloacahjddlpaognhjpacdff?hl=en" title="chrome webstore badge">
-    <img width=198 height=60 src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_496x150.png" />
+    <img width=198 height=60 src="https://images.videolan.org/images/chromewebstore-en.png" />
   </a>
   <a href="https://addons.mozilla.org/en-US/firefox/addon/linkedinfocus/" title="firefox addons badge">
     <img width=172 height=60 src="firefox-get-addons.png" />
